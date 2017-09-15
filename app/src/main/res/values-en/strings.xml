@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Guess the number!</string>
+    <string name="behind">Lower!</string>
+    <string name="ahead">Higher!</string>
+    <string name="hit">Hitting!</string>
+    <string name="input_value">Enter the value</string>
+    <string name="play_more">Play again</string>
+    <string name="try_to_guess">Try to guess the number(1 &#8211; 100)</string>
+    <string name="error">Wrong enter!</string>
+    <string name="exit">Exit</string>
+    <string name="change">Change</string>
+    <string name="ru">Russian</string>
+    <string name="en">English</string>
+    <string name="miss">Missman!!!</string>
+    <string name="count">Remained attempts:</string>
+    <string name="over">Game over.</string>
+</resources>
