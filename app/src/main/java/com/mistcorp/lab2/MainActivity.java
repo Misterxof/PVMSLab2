@@ -171,31 +171,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClickRu(View v){
         String lang = "ru";
-        switch (v.getId()) {
-            case R.id.button5:
-                lang = "en";
-                break;
-            case R.id.button4:
-                lang = "ru";
-                break;
-            default:
-                break;
-        }
         changeLang(lang);
     }
 
     public void onClickEn(View v){
         String lang = "en";
-        switch (v.getId()) {
-            case R.id.button5:
-                lang = "en";
-                break;
-            case R.id.button4:
-                lang = "ru";
-                break;
-            default:
-                break;
-        }
         changeLang(lang);
     }
 
